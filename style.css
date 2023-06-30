@@ -18,7 +18,7 @@
     width: 113px;
 }
 .logo{
-    background-image: url(amazon_logo.png);
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png);
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -143,7 +143,7 @@
 /* hero section */
 
 .hero-section{
-    background-image: url(hero_image.jpg);
+    background-image: url(https://m.media-amazon.com/images/I/61lwJy4B8PL._SX3000_.jpg);
     background-size: cover;
     height: 350px;
     display: flex;
